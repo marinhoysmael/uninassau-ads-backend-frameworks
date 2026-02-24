@@ -45,7 +45,6 @@ Elementos centrais:
 - Padrões arquiteturais
 - Componentes prontos
 - Inversão de controle
-
 ---
 
 ## 4. Biblioteca x Framework

@@ -1,4 +1,4 @@
-# 📚 Semana 2 -- Aula Prática (4h)
+# Semana 2 -- Aula Prática (4h)
 
 ## Disciplina: Frameworks Backend
 
