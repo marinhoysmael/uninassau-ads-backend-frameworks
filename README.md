@@ -103,14 +103,14 @@ Estudo de frameworks de desenvolvimento back-end. Modelo MVC (Model-View-Control
 
 #### Semana 9 – Teórica (4h)
 
-* Requisitos de software
-* Requisitos funcionais e não funcionais
-* Especificação da aplicação prática
+* Requisitos do desenvolvimento de um framework
+* Especificação de aplicação
+* Desenvolvimento de aplicação
 
 #### Semana 10 – Prática (4h)
 
 * Modelagem da aplicação
-* Definição de entidades e endpoints
+* Explorar a estrutura de um framework real.
 
 #### Semana 11 – Teórica (4h)
 
@@ -198,3 +198,26 @@ Estudo de frameworks de desenvolvimento back-end. Modelo MVC (Model-View-Control
 * Documentação oficial do Spring Boot
 * Documentação oficial do Node.js / NestJS
 * Documentação oficial do Django
+
+## Cronograma da Disciplina – Frameworks Back-end
+
+| Data           | Tipo      | Conteúdo                                                                                                              |
+| -------------- | --------- | --------------------------------------------------------------------------------------------------------------------- |
+| **11/02/2026** | Teórica   | Apresentação da disciplina. Introdução a frameworks. Diferença entre biblioteca e framework.                          |
+| **25/02/2026** | Prática   | Preparação do ambiente de desenvolvimento. Instalação de ferramentas. Primeiro contato com um framework.              |
+| **04/03/2026** | Teórica   | Principais frameworks back-end. Arquitetura em camadas. Padrão MVC.                                                   |
+| **11/03/2026** | Prática   | Estrutura de um projeto utilizando MVC. Implementação de controllers e organização em camadas.                        |
+| **18/03/2026** | Teórica   | Classificação de frameworks por linguagem (Java, JavaScript, Python, PHP).                                            |
+| **25/03/2026** | Prática   | Criação de uma API simples utilizando framework back-end.                                                             |
+| **01/04/2026** | Teórica   | Comparação entre frameworks: arquitetura, produtividade, comunidade e casos de uso.                                   |
+| **08/04/2026** | Avaliação | **Prova AV1**                                                                                                         |
+| **15/04/2026** | Teórica   | Requisitos para o desenvolvimento de um framework. Conceitos de extensibilidade, modularidade e inversão de controle. |
+| **22/04/2026** | Prática   | Análise da estrutura interna de um framework. Identificação de camadas e componentes.                                 |
+| **29/04/2026** | Teórica   | Especificação da aplicação prática da disciplina. Levantamento de requisitos e definição da arquitetura.              |
+| **06/05/2026** | Prática   | Modelagem da aplicação: definição de entidades, endpoints e estrutura do projeto.                                     |
+| **13/05/2026** | Teórica   | Desenvolvimento de aplicação utilizando framework. Organização em camadas e boas práticas.                            |
+| **20/05/2026** | Prática   | Implementação das funcionalidades da aplicação e integração com banco de dados.                                       |
+| **27/05/2026** | Teórica   | Deploy de aplicações e conceitos de APIs REST. Documentação de APIs.                                                  |
+| **03/06/2026** | Avaliação | **Prova AV2**                                                                                                         |
+| **17/06/2026** | Avaliação | **Segunda chamada – AV1 e AV2**                                                                                       |
+| **24/06/2026** | Avaliação | **Prova Final**                                                                                                       |
