@@ -30,7 +30,8 @@ const applicationContext = require('./framework/applicationContext');
 const UserRepository = require('./app/repositories/userRepository');
 const UserService    = require('./app/services/userService');
 const UserController = require('./app/controllers/userController');
-
+const AlunoController = require('./app/controllers/alunoController');
+const AlunoService = require('./app/services/alunoService');
 // ─────────────────────────────────────────────────────────────────────────────
 // Step 1 — Boot the ApplicationContext
 //
@@ -45,6 +46,8 @@ const router = applicationContext.bootstrap([
   UserRepository,   // @Repository — data access layer
   UserService,      // @Service    — business logic layer
   UserController,   // @Controller — HTTP layer
+  AlunoController,
+  AlunoService
 ]);
 
 // ─────────────────────────────────────────────────────────────────────────────

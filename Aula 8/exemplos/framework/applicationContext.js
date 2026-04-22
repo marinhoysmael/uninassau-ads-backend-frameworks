@@ -67,6 +67,8 @@ class ApplicationContext {
         ClassRef.routes.forEach(({ method, path, handler }) => {
           router.register(method, path, controllerInstance, handler);
         });
+      }else if (ClassRef.isService) {
+        console.log(`  Registered service: ${ClassRef.name}`);
       }
     });
 

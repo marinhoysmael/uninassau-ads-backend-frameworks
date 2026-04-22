@@ -36,6 +36,7 @@ class UserRepository {
       new User(1, 'Alice'),
       new User(2, 'Bob'),
       new User(3, 'Charlie'),
+      new User(4, 'Diana'),
     ];
   }
 
